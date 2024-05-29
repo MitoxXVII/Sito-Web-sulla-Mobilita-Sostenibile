@@ -65,6 +65,6 @@ Questo progetto è sotto licenza MIT. Puoi trovare maggiori dettagli nel file LI
 Contatti
 Per ulteriori informazioni, puoi contattarci a:
 
-Email: info@mobilitasostenibile.com
-Sito Web: www.mobilitasostenibile.com
+Email: 
+Sito Web: 
 Grazie per aver visitato il nostro sito e per il tuo interesse nella mobilità sostenibile!
