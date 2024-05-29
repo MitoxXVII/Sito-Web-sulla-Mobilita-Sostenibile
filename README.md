@@ -37,7 +37,7 @@ Contiene le gif animate utilizzate nel sito web. Abbiamo incluso un esempio di g
 Istruzioni per l'Installazione
 Clonare il repository:
 
-git clone [https://github.com/tuo-username/sito-mobilita-sostenibile.git](https://mitoxxvii.github.io/Sito-Web-sulla-Mobilita-Sostenibile/)
+git clone [[https://github.com/tuo-username/sito-mobilita-sostenibile.git](https://mitoxxvii.github.io/Sito-Web-sulla-Mobilita-Sostenibile/)](https://mitoxxvii.github.io/Sito-Web-sulla-Mobilita-Sostenibile/)
 Navigare nella directory del progetto:
 
 cd sito-mobilita-sostenibile
